@@ -1,0 +1,49 @@
+.body_backgorund {
+	background-image:url(Bg.jpg);
+	background-position:center ;
+	background-size: cover;
+	color: blanchedalmond;
+	text-align: center;
+}
+
+#menuList{
+	background-color: darkgoldenrod;
+	color: black;
+	border: 5px;
+	border-style: solid;
+	height: 90px;
+	width: 150px;
+	font-size: 25px;
+	font-family: "Xanh Mono";
+	float: right;
+}
+#reccommendPizza{
+	background-color: darkgoldenrod;
+	color: black;
+	border: 5px;
+	border-style: solid;
+	height: 90px;
+	width: 150px;
+	font-size: 25px;
+	font-family: "Xanh Mono";
+	float: left;
+	margin-left: 160px;
+}
+#first-img{
+	height: 400px;
+	width: 400px;
+	float: left;
+}
+#row1{
+	width: 100%;
+}
+#row2{
+	width: 100%;
+}
+.pizzaImgs{
+	height: 25px;
+	width: 25px;
+}
+#display_addmenu{
+	margin-right: 30px;
+}
